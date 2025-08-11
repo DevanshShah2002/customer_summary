@@ -46,8 +46,8 @@ if selected_name:
     intro = data.loc[data['name'] == selected_name, 'intro'].values[0]
     end = data.loc[data['name'] == selected_name, 'end'].values[0]
     summary = data.loc[data['name'] == selected_name, 'summary'].values[0]
-    
-    full_text = f"{intro} \n\n {end} \n\n {summary}"
+    notes_summary=data.loc[data['name']==selected_name,'summary_of_notes'].values[0]
+    full_text = f"{intro} \n\n {end} \n\n {summary} \n\n note summary: {notes_summary}"
     
     st.markdown('<div class="label">📄 Summary:</div>', unsafe_allow_html=True)
     st.markdown(f'<div class="summary-box">{full_text}</div>', unsafe_allow_html=True)
