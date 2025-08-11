@@ -1,38 +1,40 @@
-customer_id,name,intro,summary,end
+customer_id,name,intro,summary,end,summary_of_notes
 16959.0,Dawn,"Dawn Miller has been a loyal Abc Dallas customer for 3 months,
 * Residential Rodent Coverage - Quarterlyservice (Generates $804.4),
 * Mosquito Suppression - Mosquito (March - October)service (Generates $1054.72)
- In total generating $1859.12 annually",no complains,customer has USD285.44 amount overdue and USD503.14 amount due. Usually pay on time but miss some.
-2146955295.0,Susan,"Susan Hutchison has been a loyal Abc Dallas customer for 2 years,with no active setups","- complaint summary: 'Mrs called because she needs to cancel her services and pay the final bill. She had no idea of the balance they had. Her husband has parkinson's and she is his full time care. They just moved into an Assisted Living facility so she',complaint date: '2025 Jan 30', related workorder: 'No'",customer has USD507.82 amount overdue. Usually not paid on time.
+ In total generating $1859.12 annually",no complains,customer has USD285.44 amount overdue and USD503.14 amount due. Usually pay on time but miss some.,No notes
+2146955295.0,Susan,"Susan Hutchison has been a loyal Abc Dallas customer for 2 years,with no active setups","- complaint summary: 'Mrs called because she needs to cancel her services and pay the final bill. She had no idea of the balance they had. Her husband has parkinson's and she is his full time care. They just moved into an Assisted Living facility so she',complaint date: '2025 Jan 30', related workorder: 'No'",customer has USD507.82 amount overdue. Usually not paid on time.,"The customer, identified by account number 2146955295, has had multiple interactions primarily focused on their account balance and invoices. There were several instances where attempts were made to contact the customer, often resulting in leaving voicemails or finding that the voicemail was not set up. Invoices and statements were frequently emailed or mailed.
+
+A significant development occurred when the customer contacted to cancel services due to moving into an assisted living facility. This led to account adjustments, including credits"
 222314.0,Shirley,"Shirley Walker has been a loyal Abc Dallas customer for 2 years,
 * Termite Plus Coverage - Quarterlyservice (Generates $576.8),
 * Mosquito In2Care - Monthlyservice (Generates $1142.04),
 * Lawn Maintenance Plus Residential - LM 38service (Generates $2723.08)
- In total generating $4441.92 annually",no complains,customer has USD77.57 amount due. All monthly invoices have been paid on time.
+ In total generating $4441.92 annually",no complains,customer has USD77.57 amount due. All monthly invoices have been paid on time.,No notes
 248390.0,Debbie,"Debbie Gauntt has been a loyal Abc Dallas customer for 2 years,
 * Residential Rodent Coverage - Quarterlyservice (Generates $509.16),
 * Mosquito Suppression - Monthlyservice (Generates $928.8)
- In total generating $1437.96 annually",no complains,customer has no due balance. Usually not paid on time.
+ In total generating $1437.96 annually",no complains,customer has no due balance. Usually not paid on time.,"The customer, account 248390, has had multiple interactions regarding payment and auto-pay updates. Specifically, there was a call to post a payment and update auto-pay information, followed by an update to their card. A subsequent call indicated the customer attempted to update their card again, but it had already been processed. The overall customer sentiment is neutral, as the notes focus on transactional updates."
 275990.0,Lisa,"Lisa Lingren has been a loyal Abc Dallas customer for 2 years,
 * Mosquito Suppression - Monthlyservice (Generates $1202.04),
 * Termite Plus Coverage - Quarterlyservice (Generates $727.4)
- In total generating $1929.44 annually",no complains,customer has no due balance. Usually not paid on time.
+ In total generating $1929.44 annually",no complains,customer has no due balance. Usually not paid on time.,"The customer, account 275990, initially contacted to post a payment but informed that their credit card on file was compromised and would be updated later. Subsequently, they called to update their credit card information. The overall customer sentiment is neutral, as the notes reflect transactional updates rather than expressed feelings."
 288772.0,Amber,"Amber Williams has been a loyal Abc Dallas customer for 2 years,
 * Signature Pest Control - Quarterlyservice (Generates $581.92),
 * Mosquito In2Care - Monthlyservice (Generates $1622.28)
- In total generating $2204.2 annually",No complaints. Last service was on 2025 Aug 11 by Ryan.,customer has USD146.35 amount due. All monthly invoices have been paid on time.
+ In total generating $2204.2 annually",No complaints. Last service was on 2025 Aug 11 by Ryan.,customer has USD146.35 amount due. All monthly invoices have been paid on time.,"The customer, identified as 288772.0, was emailed regarding two open invoices on December 19, 2024. No customer sentiment is visible from this note."
 319691.0,John,"John White has been a loyal Abc Dallas customer for 2 years,
 * Mosquito In2Care - Monthlyservice (Generates $960.0),
 * Mosquito In2Care - Monthlyservice (Generates $988.8),
 * Residential Rodent Coverage - Quarterlyservice (Generates $660.24)
- In total generating $2609.04 annually",no complains,customer has no due balance. All monthly invoices have been paid on time.
+ In total generating $2609.04 annually",no complains,customer has no due balance. All monthly invoices have been paid on time.,"The customer, 319691, called to update their credit card information and the payment was successfully processed. The overall customer sentiment is neutral."
 615864.0,Rosie,"Rosie Ridgway has been a loyal Abc Dallas customer for 2 years,
 * Mosquito In2Care - Monthlyservice (Generates $1332.0)
- In total generating $1332.0 annually","- complaint summary:'Payment did not autocharge.',complaint date:'2025 Jul 28', related workorder:'No', (if related workorder yes workorder summary status:'', technician name:'', technician comment:'')",customer has USD120.16 amount due. Usually pay on time but miss some.
+ In total generating $1332.0 annually","- complaint summary:'Payment did not autocharge.',complaint date:'2025 Jul 28', related workorder:'No', (if related workorder yes workorder summary status:'', technician name:'', technician comment:'')",customer has USD120.16 amount due. Usually pay on time but miss some.,"The customer, account 615864, has made several payments and is in the process of resolving outstanding invoices. There was an issue with an auto-charge payment not processing, but the customer has since paid the balance. The customer also cancelled a signature registration. Overall, the customer appears to be actively managing their account and resolving issues."
 628935.0,Tony,"Tony Carter has been a loyal Abc Dallas customer for 1 years,
 * Mosquito In2Care - Monthlyservice (Generates $1068.0)
- In total generating $1068.0 annually",no complains,customer has no due balance. Usually pay on time but miss some.
+ In total generating $1068.0 annually",no complains,customer has no due balance. Usually pay on time but miss some.,"The customer has successfully made a payment, updated their card on file, and enrolled in auto-pay. The overall customer sentiment is positive."
 4958.0,Amber,"Amber Chen has been a loyal Abc Dallas customer for 1 years,
 * Signature Pest Control - Quarterlyservice (Generates $560.0),
 * Mosquito Suppression - Mosquito (March - October)service (Generates $631.68)
- In total generating $1191.68 annually",no complains,customer has USD85.47 amount due. All monthly invoices have been paid on time.
+ In total generating $1191.68 annually",no complains,customer has USD85.47 amount due. All monthly invoices have been paid on time.,No notes
